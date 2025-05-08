@@ -28,5 +28,6 @@ This project analyzes 2024 MLB player offensive statistics and salary data to an
 3. Make sure you have the required libraries installed:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
 4. Use `mlb_batting_proposal` to  avoid having to scrape the baseball-reference.com table
 5. Then Run All
